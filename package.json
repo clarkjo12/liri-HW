@@ -1,0 +1,19 @@
+{
+  "name": "LIRI-Homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liriHW.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0",
+    "request": "^2.81.0",
+    "node-spotify-api": "",
+    "fs": "^0.0.1-security",
+    "moment": "^2.22.2",
+    "inquirer": "^6.2.0"
+  }
+}
